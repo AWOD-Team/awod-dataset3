@@ -1,0 +1,82 @@
+待传 18 片, 合计 1508 MB
+  [skip] A_night_v2.tar.part_aa 已完成
+    A_night_v2.tar.part_ab: 21/105 MB  3.28 MB/s
+    A_night_v2.tar.part_ab: 42/105 MB  0.56 MB/s
+    A_night_v2.tar.part_ab: 63/105 MB  0.31 MB/s
+    A_night_v2.tar.part_ab: 84/105 MB  0.36 MB/s
+  [ok] A_night_v2.tar.part_ab  105 MB  (210/1508 MB 总进度 14%)
+    A_night_v2.tar.part_ac: 21/105 MB  1.59 MB/s
+    A_night_v2.tar.part_ac: 42/105 MB  1.79 MB/s
+    A_night_v2.tar.part_ac: 63/105 MB  1.72 MB/s
+    A_night_v2.tar.part_ac: 84/105 MB  1.46 MB/s
+    A_night_v2.tar.part_ac: 105/105 MB  1.37 MB/s
+  [ok] A_night_v2.tar.part_ac  105 MB  (315/1508 MB 总进度 21%)
+    A_night_v2.tar.part_ad: 21/105 MB  0.99 MB/s
+    A_night_v2.tar.part_ad: 42/105 MB  1.10 MB/s
+    A_night_v2.tar.part_ad: 63/105 MB  1.14 MB/s
+    A_night_v2.tar.part_ad: 84/105 MB  1.08 MB/s
+    A_night_v2.tar.part_ad: 105/105 MB  1.20 MB/s
+  [ok] A_night_v2.tar.part_ad  105 MB  (419/1508 MB 总进度 28%)
+    A_night_v2.tar.part_ae: 21/105 MB  1.46 MB/s
+    A_night_v2.tar.part_ae: 42/105 MB  1.66 MB/s
+    A_night_v2.tar.part_ae: 63/105 MB  1.73 MB/s
+    A_night_v2.tar.part_ae: 84/105 MB  1.73 MB/s
+    A_night_v2.tar.part_ae: 105/105 MB  1.44 MB/s
+  [ok] A_night_v2.tar.part_ae  105 MB  (524/1508 MB 总进度 35%)
+    A_night_v2.tar.part_af: 21/105 MB  1.29 MB/s
+    A_night_v2.tar.part_af: 42/105 MB  1.40 MB/s
+    A_night_v2.tar.part_af: 63/105 MB  1.52 MB/s
+    A_night_v2.tar.part_af: 84/105 MB  1.72 MB/s
+    A_night_v2.tar.part_af: 105/105 MB  1.62 MB/s
+  [ok] A_night_v2.tar.part_af  105 MB  (629/1508 MB 总进度 42%)
+    A_night_v2.tar.part_ag: 21/76 MB  1.25 MB/s
+    A_night_v2.tar.part_ag: 42/76 MB  1.29 MB/s
+    A_night_v2.tar.part_ag: 63/76 MB  1.49 MB/s
+  [ok] A_night_v2.tar.part_ag  76 MB  (705/1508 MB 总进度 47%)
+    B_fog_v1.tar.part_aa: 21/105 MB  1.43 MB/s
+    B_fog_v1.tar.part_aa: 42/105 MB  1.69 MB/s
+    B_fog_v1.tar.part_aa: 63/105 MB  1.76 MB/s
+    B_fog_v1.tar.part_aa: 84/105 MB  1.55 MB/s
+    B_fog_v1.tar.part_aa: 105/105 MB  1.45 MB/s
+  [ok] B_fog_v1.tar.part_aa  105 MB  (810/1508 MB 总进度 54%)
+    B_fog_v1.tar.part_ab: 21/105 MB  1.19 MB/s
+    B_fog_v1.tar.part_ab: 42/105 MB  1.02 MB/s
+    B_fog_v1.tar.part_ab: 63/105 MB  1.02 MB/s
+    B_fog_v1.tar.part_ab: 84/105 MB  0.93 MB/s
+    B_fog_v1.tar.part_ab: 105/105 MB  1.03 MB/s
+  [ok] B_fog_v1.tar.part_ab  105 MB  (915/1508 MB 总进度 61%)
+    B_fog_v1.tar.part_ac: 21/105 MB  1.73 MB/s
+    B_fog_v1.tar.part_ac: 42/105 MB  1.67 MB/s
+    B_fog_v1.tar.part_ac: 63/105 MB  1.30 MB/s
+    B_fog_v1.tar.part_ac: 84/105 MB  1.37 MB/s
+    B_fog_v1.tar.part_ac: 105/105 MB  1.41 MB/s
+  [ok] B_fog_v1.tar.part_ac  105 MB  (1019/1508 MB 总进度 68%)
+    B_fog_v1.tar.part_ad: 21/105 MB  1.88 MB/s
+    B_fog_v1.tar.part_ad: 42/105 MB  1.62 MB/s
+    B_fog_v1.tar.part_ad: 63/105 MB  1.22 MB/s
+    B_fog_v1.tar.part_ad: 84/105 MB  1.17 MB/s
+  [ok] B_fog_v1.tar.part_ad  105 MB  (1124/1508 MB 总进度 75%)
+    B_fog_v1.tar.part_ae: 21/105 MB  2.57 MB/s
+    B_fog_v1.tar.part_ae: 42/105 MB  2.42 MB/s
+    B_fog_v1.tar.part_ae: 63/105 MB  2.22 MB/s
+    B_fog_v1.tar.part_ae: 84/105 MB  2.08 MB/s
+    B_fog_v1.tar.part_ae: 105/105 MB  1.98 MB/s
+  [ok] B_fog_v1.tar.part_ae  105 MB  (1229/1508 MB 总进度 81%)
+    B_fog_v1.tar.part_af: 21/39 MB  2.84 MB/s
+  [ok] B_fog_v1.tar.part_af  39 MB  (1268/1508 MB 总进度 84%)
+    C_exp_fog.tar.part_aa: 21/105 MB  1.56 MB/s
+    C_exp_fog.tar.part_aa: 42/105 MB  1.24 MB/s
+    C_exp_fog.tar.part_aa: 63/105 MB  0.89 MB/s
+    C_exp_fog.tar.part_aa: 84/105 MB  0.76 MB/s
+    C_exp_fog.tar.part_aa: 105/105 MB  0.70 MB/s
+  [ok] C_exp_fog.tar.part_aa  105 MB  (1373/1508 MB 总进度 91%)
+  [ok] C_exp_fog.tar.part_ab  19 MB  (1392/1508 MB 总进度 92%)
+    D_exp_night.tar.part_aa: 21/105 MB  0.55 MB/s
+    D_exp_night.tar.part_aa: 42/105 MB  0.49 MB/s
+    D_exp_night.tar.part_aa: 63/105 MB  0.45 MB/s
+    D_exp_night.tar.part_aa: 84/105 MB  0.44 MB/s
+    D_exp_night.tar.part_aa: 105/105 MB  0.43 MB/s
+  [ok] D_exp_night.tar.part_aa  105 MB  (1497/1508 MB 总进度 99%)
+  [ok] D_exp_night.tar.part_ab  4 MB  (1501/1508 MB 总进度 100%)
+  [ok] E_processed_meta.tar.part_aa  7 MB  (1508/1508 MB 总进度 100%)
+SLICES_DONE  1508 MB
