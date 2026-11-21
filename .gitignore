@@ -1,15 +1,9 @@
-# 大文件不入 git（超 GitHub 100MB 限制）
-A_night_v2.tar
-B_fog_v1.tar
-C_exp_fog.tar
-D_exp_night.tar
+# 本仓库只作为 Release 挂载点，不放文件内容
+*.tar
 *.zip
 *.7z
 *.pt
 *.onnx
-
-# 系统垃圾
+__pycache__/
 Thumbs.db
 .DS_Store
-desktop.ini
-__pycache__/
